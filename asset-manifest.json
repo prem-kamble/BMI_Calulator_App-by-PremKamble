@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BMI_Calulator_App-by-PremKamble/static/css/main.5f25ca59.css",
+    "main.js": "/BMI_Calulator_App-by-PremKamble/static/js/main.5e73b1ba.js",
+    "static/js/787.942e1c73.chunk.js": "/BMI_Calulator_App-by-PremKamble/static/js/787.942e1c73.chunk.js",
+    "static/media/overweight.png": "/BMI_Calulator_App-by-PremKamble/static/media/overweight.d289cb46e9633c985346.png",
+    "static/media/healthy.png": "/BMI_Calulator_App-by-PremKamble/static/media/healthy.9343f93bce37d792e548.png",
+    "static/media/underweight.png": "/BMI_Calulator_App-by-PremKamble/static/media/underweight.59ea1528911569173fa9.png",
+    "index.html": "/BMI_Calulator_App-by-PremKamble/index.html",
+    "main.5f25ca59.css.map": "/BMI_Calulator_App-by-PremKamble/static/css/main.5f25ca59.css.map",
+    "main.5e73b1ba.js.map": "/BMI_Calulator_App-by-PremKamble/static/js/main.5e73b1ba.js.map",
+    "787.942e1c73.chunk.js.map": "/BMI_Calulator_App-by-PremKamble/static/js/787.942e1c73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f25ca59.css",
+    "static/js/main.5e73b1ba.js"
+  ]
+}
